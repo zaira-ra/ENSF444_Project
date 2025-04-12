@@ -35,3 +35,7 @@ Our made-up client is a regional manager of a retail chain who wants to optimize
 3. Install the required packages:
    ```bash
    pip install pandas numpy matplotlib seaborn scikit-learn
+
+### Citations
+
+All code was adapted from ENSF 444 labs, assignments, and lecture examples. Generative AI was used to help fix errors and build parts of the assignment.
